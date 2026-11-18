@@ -74,6 +74,6 @@ Certifications
 
 Certificate in Technical Writing – APPTA Institute 2015
 Skills: CMS, COSIMA, Arbortext, FramMaker, Madcap Flare, Jira, Azure Devops, Alchemy and Visual Studio.---
-ANBU328/ANBU328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+anbazhagan-k/anbazhagan-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
